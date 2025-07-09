@@ -11,11 +11,13 @@ Training with multi-gpus
 
 
 ## To-Do
+### Common
 - [ ] UnitTest
 - [ ] Customized Callbacks
 - [ ] Code Refactoring
+### Tasks
 - [ ] Object Detection
 - [ ] Object Segmentation
-- [ ] Text Classificxation
+- [ ] Text Classification
 - [ ] Text Generation (LLM)
 - [ ] Multimodal Learning (MLLM)
